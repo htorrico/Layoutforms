@@ -10,7 +10,7 @@ namespace Ejercicio01
 		public App ()
 		{
 			InitializeComponent();
-
+			//comentario
             MainPage = new  NavigationPage( new MainPage());
             //MainPage = new StackLayoutDemo();
             //MainPage = new RelativeLayoutDemo();
